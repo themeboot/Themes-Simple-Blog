@@ -1,0 +1,16 @@
+.text-blog-1{
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+}
+
+.about-text-title{
+    padding-left: 5%;
+    padding-bottom: 5px;
+    padding-bottom: 21px solid blue;
+}
+
+.post-text{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 24px;
+}
